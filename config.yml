@@ -1,3 +1,4 @@
 config:
     -nike
     -addidas
+    puma
